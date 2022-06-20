@@ -42,7 +42,7 @@
 
 <div align="center">
   <img align=top src="https://github-readme-stats.vercel.app/api?username=dariija&show_icons=true&count_private=true&hide_border=true&title_color=444e59&icon_color=f05237" alt="Github Stats"/>
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariija&hide_border=true&layout=compact&title_color=444e59"  alt="Github Stats Languages"/>
+  <img align=top width="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariija&hide_border=true&layout=compact&title_color=444e59"  alt="Github Stats Languages"/>
 <div>
 <br />
 
